@@ -13,7 +13,7 @@ and automate anything I have to do twice.
 - [Awesome Chinese Model APIs](https://github.com/PowerTokens/awesome-chinese-model-apis): every Chinese model API worth knowing
 
 #### Tinkering
+
 - [fortune-japan](https://uselesssoso.github.io/fortune-japan/): Tells your fortune. Accuracy not included.
 
 <sub>没用，但能跑。</sub>
-
