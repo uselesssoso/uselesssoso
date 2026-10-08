@@ -17,6 +17,7 @@ and automate anything I have to do twice.
 #### Shipped
 - [Video Studio](https://github.com/PowerTokens/video-studio): Excel in, AI videos out
 - [Awesome Chinese Model APIs](https://github.com/PowerTokens/awesome-chinese-model-apis): every Chinese model API worth knowing
+- [fit-every-feed](https://uselesssoso.github.io/fit-every-feed/): One image in, every ad size out
 
 
 #### Tinkering
