@@ -15,7 +15,6 @@ and automate anything I have to do twice.
 
 
 #### Shipped
-- [Video Studio](https://github.com/PowerTokens/video-studio): Excel in, AI videos out
 - [fit-every-feed](https://uselesssoso.github.io/fit-every-feed/): One image in, every ad size out
 
 
